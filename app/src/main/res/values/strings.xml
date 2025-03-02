@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cinema4Culture</string>
+    <string name="cinema4culture">Cinema4Culture</string>
+    <string name="back_button">back button</string>
 </resources>
